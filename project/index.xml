@@ -5,12 +5,29 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Website creation</title>
+      <link>https://example.com/project/site/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/site/</guid>
+      <description>&lt;h2 id=&#34;what-we-will-do&#34;&gt;What we will do&lt;/h2&gt;
+&lt;p&gt;We will assemble and launch a website generator that will make full-fledged pages from text documents.:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We will make a document, which we will then turn into a page.&lt;/li&gt;
+&lt;li&gt;Install the necessary software.&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s install some kind of design theme to make the pages look beautiful.&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s set up and run the generator.&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s look at the result and think about what can be improved.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>
